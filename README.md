@@ -1,6 +1,8 @@
 # reminder_app
 
-Simples app de tarefas para a Disciplina de Flutter da Especialização em Programação em Dispositivos Móveis
+Simples app de tarefas.
+Disciplina de Flutter da Especialização em Programação em Dispositivos Móveis - UTFPR
+
 
 # 🚀 Funcionalidades
 
