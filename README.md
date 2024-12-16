@@ -1,16 +1,21 @@
 # reminder_app
 
-A new Flutter project.
+Simples app de tarefas para a Disciplina de Flutter da Especialização em Programação em Dispositivos Móveis
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# 🚀 Funcionalidades
 
-A few resources to get you started if this is your first Flutter project:
+📋 Adicionar Tarefas: Crie novas tarefas facilmente.
+✅ Marcar como Concluído: Organize-se marcando as tarefas já realizadas.
+🗑️ Excluir Tarefas: Remova tarefas desnecessárias deslizando para o lado.
+💾 Persistência Local: Suas tarefas são salvas automaticamente usando shared_preferences.
+🌐 Integração com API: Consumo de dados externos usando Retrofit e Dio.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# 🛠️ Tecnologias Utilizadas
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter: Framework principal para desenvolvimento mobile.
+Dart: Linguagem de programação.
+Shared Preferences: Para persistência de dados local.
+Retrofit e Dio: Para consumo de APIs REST.
+Provider: Para gerenciamento de estado.
+Build Runner: Para geração automática de código.
